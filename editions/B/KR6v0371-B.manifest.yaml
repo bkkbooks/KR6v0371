@@ -1,0 +1,428 @@
+canonical_identifier: bkk:krp/KR6v0371/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0371/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿底峽尊者傳
+  identifiers:
+    krp: KR6v0371
+    cbeta: B11n0072
+    cbeta_old_id: B11n0072
+    authorityid: CA0006156
+    json_key: B0072
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B11/B11n0072.xml
+    old_id: B11n0072
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0371_000-B.yaml, hash: 'sha256:dc0847589b31584d9204f55c3200263a21f8ef006a8f563666bfacb12f346f4c'}
+  - {seq: 2, filename: KR6v0371_002-B.yaml, hash: 'sha256:068836e808a4702baa16ce5baa3b5209481c8238c703fe42e8e6bf0259f96592'}
+  - {seq: 3, filename: KR6v0371_003-B.yaml, hash: 'sha256:56b7c85cb571d99e2ec91239cc1f74217c65118e76adc2e5f1c54209ef9b4060'}
+  - {seq: 2, filename: KR6v0371_002-B.yaml, hash: 'sha256:179ca4942e053411d89a08b220704f689ed5c4acf48196cebc53a3f00a2aedfe'}
+  - {seq: 3, filename: KR6v0371_003-B.yaml, hash: 'sha256:425c493cd4a4a1e8f066181f7e0b82d901fbf57e79b061307658f0983c9bc9aa'}
+  - {seq: 4, filename: KR6v0371_004-B.yaml, hash: 'sha256:91aab82ea53e7eb8d1a246c5f3dc8ebd96b6919b2275fa33591e075e4bdccb61'}
+  - {seq: 5, filename: KR6v0371_005-B.yaml, hash: 'sha256:8d6c80151cb1464bc75373cd54756fe3d204f3d3bb5b9e5adfc2f2786b91a81f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0371_000-B.markers.yaml, hash: 'sha256:39292dc12e04aa401dd5f96a1f2ce0502f7ae29a21b2d23b4498aeb81ed057ec'}
+  - {seq: 2, role: markers, filename: assets/KR6v0371_002-B.markers.yaml, hash: 'sha256:8892c88648cfcd2816c3b3dfd8059263ebf57cea583ab30600607bfcefbcedb1'}
+  - {seq: 3, role: markers, filename: assets/KR6v0371_003-B.markers.yaml, hash: 'sha256:1de48e3b4fe2907ada8a7436e0ecd66c2bc01029e9294e75279309a3c5557723'}
+  - {seq: 2, role: markers, filename: assets/KR6v0371_002-B.markers.yaml, hash: 'sha256:8892c88648cfcd2816c3b3dfd8059263ebf57cea583ab30600607bfcefbcedb1'}
+  - {seq: 3, role: markers, filename: assets/KR6v0371_003-B.markers.yaml, hash: 'sha256:1de48e3b4fe2907ada8a7436e0ecd66c2bc01029e9294e75279309a3c5557723'}
+  - {seq: 4, role: markers, filename: assets/KR6v0371_004-B.markers.yaml, hash: 'sha256:8b48629c70366610452b4b65779f153699072c5248aab3b5718496a4c6f69346'}
+  - {seq: 5, role: markers, filename: assets/KR6v0371_005-B.markers.yaml, hash: 'sha256:3f42718ece890e3932465d560b162d24bb9a6fca79e85b6de1cbe2e989ef308e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0371_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 阿底峽尊者聖像
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0371_B_1a-juan-start
+    span:
+    - body
+    - 0
+    - 365
+  label: 阿底峽尊者傳
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0371_B_1a-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-juan-start
+    span:
+    - body
+    - 0
+    - 7549
+  label: 阿底峽尊者傳（卷一）
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 譯序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-2
+    span:
+    - body
+    - 386
+    - 386
+  label: 第一章　自身所具廣大功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-3
+    span:
+    - body
+    - 397
+    - 397
+  label: 第一段　在家時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-4
+    span:
+    - body
+    - 404
+    - 404
+  label: 第一節　受用圓滿
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-5
+    span:
+    - body
+    - 579
+    - 579
+  label: 第二節　種姓圓滿
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-6
+    span:
+    - body
+    - 744
+    - 744
+  label: 第三節　俱生功德圓滿
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-7
+    span:
+    - body
+    - 1361
+    - 1361
+  label: 第二段　學法時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-8
+    span:
+    - body
+    - 2474
+    - 2474
+  label: 第三段　留學阿蘭陀寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-9
+    span:
+    - body
+    - 5452
+    - 5452
+  label: 第四段　出家及其菩薩行
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-10
+    span:
+    - body
+    - 5462
+    - 5462
+  label: 第一節　出家
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-11
+    span:
+    - body
+    - 5906
+    - 5906
+  label: 第二節　廣修菩薩之行
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_1b-mulu-12
+    span:
+    - body
+    - 5915
+    - 5915
+  label: 第一目　修習五明學處
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0371_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 7931
+  label: 阿底峽尊者傳（卷二）
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0371_B_002-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 第二目　尊者所證功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0371_B_002-mulu-2
+    span:
+    - body
+    - 913
+    - 913
+  label: 第二章　宏法利生廣大事業
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0371_B_002-mulu-3
+    span:
+    - body
+    - 924
+    - 924
+  label: 第一段　住大菩提寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0371_B_002-mulu-4
+    span:
+    - body
+    - 1870
+    - 1870
+  label: 第二段　住止迦摩羅尸羅寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0371_B_002-mulu-5
+    span:
+    - body
+    - 2204
+    - 2204
+  label: 第三段　赴藏宏法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0371_B_002-mulu-6
+    span:
+    - body
+    - 2211
+    - 2211
+  label: 第一節　略述藏王之系統
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0371_B_002-mulu-7
+    span:
+    - body
+    - 2758
+    - 2758
+  label: 第二節　初次迎請
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0371_B_002-mulu-8
+    span:
+    - body
+    - 3556
+    - 3556
+  label: 第三節　第二次迎請
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 5465
+  label: 阿底峽尊者傳（卷三）
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_003-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 第四節　赴藏途中宏揚聖教
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_003-mulu-2
+    span:
+    - body
+    - 25
+    - 25
+  label: 第一目　起行之前
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_003-mulu-3
+    span:
+    - body
+    - 1114
+    - 1114
+  label: 第二目　途中降魔
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0371_B_003-mulu-4
+    span:
+    - body
+    - 3261
+    - 3261
+  label: 第三目　說深奇法大轉法輪
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0371_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 7063
+  label: 阿底峽尊者傳（卷四）
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0371_B_004-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 第四目　請赴拉薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0371_B_004-mulu-2
+    span:
+    - body
+    - 1881
+    - 1881
+  label: 第五目　拉薩途中
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0371_B_004-mulu-3
+    span:
+    - body
+    - 4720
+    - 4720
+  label: 第六目　卓錫拉薩轉大法輪
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0371_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 4084
+  label: 阿底峽尊者傳（卷五）
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0371_B_005-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 第五節　尊者之圓寂
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0371_B_005-mulu-2
+    span:
+    - body
+    - 22
+    - 22
+  label: 第一目　圓寂前相
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0371_B_005-mulu-3
+    span:
+    - body
+    - 877
+    - 877
+  label: 第二目　涅槃勝樂
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0371_B_005-mulu-4
+    span:
+    - body
+    - 1986
+    - 1986
+  label: 第三章　事業流傳教法增廣
+  type: mulu
+  level: 1
+hash: sha256:5f179688f217e5d6fecb93bb20016d281be7b489cd6705add56a83b173ec4d2c

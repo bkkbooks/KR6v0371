@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0371/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 其他, offset: 0, content: 阿底峽尊者聖像, id: KR6v0371_B_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿底峽尊者傳
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B11/B11n0072.xml
+    old_id: B11n0072
+hash: sha256:dc0847589b31584d9204f55c3200263a21f8ef006a8f563666bfacb12f346f4c

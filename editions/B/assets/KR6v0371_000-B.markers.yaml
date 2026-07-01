@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6v0371/B/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6v0371_B_000-0179a, ed: B, 'n': 0179a, source_xml_id: B11.0072.0179a}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a01, ed: B, 'n': 0179a01}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a02, ed: B, 'n': 0179a02}
+  - {type: xml-element, offset: 0, content: '', id: pB11p0179a0201, name: p, role: open, attrs: {'xml:id': pB11p0179a0201}}
+  - {type: xml-element, offset: 0, content: '', id: pB11p0179a0201_end, name: p, role: close, attrs: {'xml:id': pB11p0179a0201}}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a03, ed: B, 'n': 0179a03}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a04, ed: B, 'n': 0179a04}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a05, ed: B, 'n': 0179a05}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a06, ed: B, 'n': 0179a06}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a07, ed: B, 'n': 0179a07}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a08, ed: B, 'n': 0179a08}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a09, ed: B, 'n': 0179a09}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a10, ed: B, 'n': 0179a10}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a11, ed: B, 'n': 0179a11}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a12, ed: B, 'n': 0179a12}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a13, ed: B, 'n': 0179a13}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a14, ed: B, 'n': 0179a14}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0179a15, ed: B, 'n': 0179a15}
+  - {type: page-break, offset: 0, content: '', id: KR6v0371_B_000-0181a, ed: B, 'n': 0181a, source_xml_id: B11.0072.0181a}
+  - {type: line-break, offset: 0, content: '', id: KR6v0371_B_000-0181a01, ed: B, 'n': 0181a01}
+  - {type: variant, offset: 158, length: 1, content: 臆, 補編: 憶}
+  - {type: variant, offset: 770, length: 1, content: 天, 補編: 王}
+  - {type: variant, offset: 971, length: 1, content: 曰, 補編: 臼}
+  - {type: variant, offset: 1686, length: 1, content: 惟, 補編: 維}
+  - {type: variant, offset: 1922, length: 1, content: 故, 補編: 設}
+  - {type: variant, offset: 2318, length: 1, content: 惟, 補編: 維}
+  - {type: variant, offset: 2373, length: 1, content: 淨, 補編: 凈}
+  - {type: variant, offset: 2669, length: 1, content: 已, 補編: 巳}
+  - {type: variant, offset: 2770, length: 1, content: 惟, 補編: 維}
+  - {type: variant, offset: 2917, length: 1, content: 顧, 補編: 顏}
+  - {type: variant, offset: 2997, length: 1, content: 惟, 補編: 維}
+  - {type: variant, offset: 3383, length: 1, content: 惟, 補編: 維}
+  - {type: variant, offset: 3411, length: 1, content: 惑, 補編: 感}
+  - {type: variant, offset: 3632, length: 1, content: 五, 補編: 王}
+  - {type: variant, offset: 4107, length: 1, content: 壇, 補編: 墳}
+  - {type: variant, offset: 4256, length: 1, content: 怖, 補編: 佈}
+  - {type: variant, offset: 4607, length: 1, content: 然, 補編: ''}
+  - {type: variant, offset: 4637, length: 1, content: 見, 補編: 是}
+  - {type: variant, offset: 5644, length: 0, content: '', 補編: 母}
+  - {type: variant, offset: 5834, length: 0, content: '', 補編: 家}
+  - {type: variant, offset: 6484, length: 1, content: 巧, 補編: 教}
+  - {type: variant, offset: 6652, length: 1, content: 亦, 補編: ''}
+  - {type: variant, offset: 6654, length: 1, content: 造, 補編: ''}
+  - {type: variant, offset: 6827, length: 1, content: 竟, 補編: 意}
+  - {type: variant, offset: 6947, length: 1, content: 經, 補編: 住}
+  - {type: variant, offset: 6981, length: 1, content: 經, 補編: 住}
+  - {type: variant, offset: 7157, length: 1, content: 網, 補編: 綱}
+  body: []
+  back: []
+hash: sha256:39292dc12e04aa401dd5f96a1f2ce0502f7ae29a21b2d23b4498aeb81ed057ec
